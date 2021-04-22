@@ -1,1 +1,1 @@
-# react-hooks-counter-down timer
+# react-hooks-countdown timer
